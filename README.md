@@ -1,8 +1,5 @@
 # **MonolithicBreaker:**
 
-
----
-
 ## **Project Overview**
 
 This project is designed to deploy a microservices-based architecture with security best practices, auto-scaling, and high availability in **AWS EU (Ireland)** (`eu-west-1`). The infrastructure is divided into public and private subnets, utilizing various AWS services to ensure secure and reliable operations.
