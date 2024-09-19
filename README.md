@@ -1,4 +1,4 @@
-# **MonolithicBreaker:**
+# **MonolithicBreaker**
 
 ## **Project Overview**
 
